@@ -6,7 +6,7 @@
         "repositoryURL": "https://github.com/iOS-App-Development/APIClient.git",
         "state": {
           "branch": "master",
-          "revision": "614c8787ee72b59d7fae7f69e74a1f75f5c1a12b",
+          "revision": "2736b4dd8beb4f2a1f3cf2f7fb28733177a9853e",
           "version": null
         }
       },
@@ -15,7 +15,7 @@
         "repositoryURL": "https://github.com/iOS-App-Development/APIClientModule.git",
         "state": {
           "branch": "master",
-          "revision": "fc500198e21bb90270695a76601c3ac657940a10",
+          "revision": "ed1915d8991493b1beb0881e2ab6ba7482380143",
           "version": null
         }
       },
@@ -34,6 +34,15 @@
         "state": {
           "branch": "master",
           "revision": "a21a85e282f825510d3ed1d58fa8bf7f7ed74569",
+          "version": null
+        }
+      },
+      {
+        "package": "HTTPClientModule",
+        "repositoryURL": "https://github.com/iOS-App-Development/HTTPClientModule.git",
+        "state": {
+          "branch": "master",
+          "revision": "f7a87b65ef8df04ab813555ce9f2700bfaec9100",
           "version": null
         }
       },
