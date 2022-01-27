@@ -15,7 +15,7 @@
         "repositoryURL": "https://github.com/iOS-App-Development/APIClientModule.git",
         "state": {
           "branch": "master",
-          "revision": "ed1915d8991493b1beb0881e2ab6ba7482380143",
+          "revision": "0f0fc48d3e4d0e24d71cb144b223f8f44033e282",
           "version": null
         }
       },
@@ -33,7 +33,7 @@
         "repositoryURL": "https://github.com/iOS-App-Development/HomeFeature.git",
         "state": {
           "branch": "master",
-          "revision": "a21a85e282f825510d3ed1d58fa8bf7f7ed74569",
+          "revision": "07bedb1b9d3073f233e02926b18e408738d4589c",
           "version": null
         }
       },
