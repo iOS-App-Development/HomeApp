@@ -7,8 +7,6 @@
 
 import UIKit
 import CoreData
-//import APIClient
-//import APIClientModule
 import HomeFeature
 //https://zamzam.io/swift-dependency-injection-via-property-wrapper/
 @main
