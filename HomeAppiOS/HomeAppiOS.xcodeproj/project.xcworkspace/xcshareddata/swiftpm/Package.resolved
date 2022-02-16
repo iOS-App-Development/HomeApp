@@ -6,7 +6,7 @@
         "repositoryURL": "https://github.com/iOS-App-Development/APIClient.git",
         "state": {
           "branch": "master",
-          "revision": "2736b4dd8beb4f2a1f3cf2f7fb28733177a9853e",
+          "revision": "aa08313623f0a6c15489ec396163f112d3f72d3b",
           "version": null
         }
       },
@@ -15,7 +15,7 @@
         "repositoryURL": "https://github.com/iOS-App-Development/APIClientModule.git",
         "state": {
           "branch": "master",
-          "revision": "0f0fc48d3e4d0e24d71cb144b223f8f44033e282",
+          "revision": "50e1d57161c25a6d544a8440dbbf0a8b20ad003e",
           "version": null
         }
       },
@@ -24,7 +24,7 @@
         "repositoryURL": "https://github.com/iOS-App-Development/CoreModule.git",
         "state": {
           "branch": "master",
-          "revision": "1e042abede08e24b73e7b40bc75d16291a3ef4b8",
+          "revision": "bc46ab852a2b2a37d821d23989dc1d8d3fd4d7bf",
           "version": null
         }
       },
@@ -33,7 +33,7 @@
         "repositoryURL": "https://github.com/iOS-App-Development/HomeFeature.git",
         "state": {
           "branch": "master",
-          "revision": "07bedb1b9d3073f233e02926b18e408738d4589c",
+          "revision": "01a4b9c343a74603cb0be7c8f2f419f9641b0901",
           "version": null
         }
       },
@@ -42,7 +42,7 @@
         "repositoryURL": "https://github.com/iOS-App-Development/HTTPClientModule.git",
         "state": {
           "branch": "master",
-          "revision": "f7a87b65ef8df04ab813555ce9f2700bfaec9100",
+          "revision": "c27ee3f70f506259625b77523df1c4a260cbc704",
           "version": null
         }
       },
@@ -51,7 +51,7 @@
         "repositoryURL": "https://github.com/iOS-App-Development/SharedModule.git",
         "state": {
           "branch": "master",
-          "revision": "31b2c8251dfc105d348625c06572a032273a57a2",
+          "revision": "6e5171bb499604275a28324ad1fbb8954bd3d9b8",
           "version": null
         }
       }

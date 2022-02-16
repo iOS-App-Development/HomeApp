@@ -6,18 +6,18 @@
 //
 
 import UIKit
-import HTTPClientModule
-import APIClientModule
+//import APIClient
+//import HTTPClientModule
+//import APIClientModule
+import CoreModule
 import HomeFeature
-
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
-        super.viewDidLoad()
-        // Do any additional setup after loading the view.
+       super.viewDidLoad()
+
     }
-    
     private func buildHomeScreen()
     {
         let client = URLSessionHTTPClient(session: URLSession(configuration: .ephemeral))

@@ -7,12 +7,16 @@
 
 import UIKit
 import CoreData
-
+//import APIClient
+//import APIClientModule
+import HomeFeature
+//https://zamzam.io/swift-dependency-injection-via-property-wrapper/
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
-
-
+    override init() {
+            super.init()
+    }
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         return true
